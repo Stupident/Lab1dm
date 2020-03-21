@@ -1,0 +1,13 @@
+D:\code\DM\lab1dm\lab1dm\bin\Debug\lab1dm.exe.config
+D:\code\DM\lab1dm\lab1dm\bin\Debug\lab1dm.exe
+D:\code\DM\lab1dm\lab1dm\bin\Debug\lab1dm.pdb
+D:\code\DM\lab1dm\lab1dm\obj\Debug\lab1dm.csprojAssemblyReference.cache
+D:\code\DM\lab1dm\lab1dm\obj\Debug\lab1dm.Properties.Resources.resources
+D:\code\DM\lab1dm\lab1dm\obj\Debug\lab1dm.csproj.GenerateResource.cache
+D:\code\DM\lab1dm\lab1dm\obj\Debug\lab1dm.exe
+D:\code\DM\lab1dm\lab1dm\obj\Debug\lab1dm.pdb
+D:\code\DM\lab1dm\lab1dm\obj\Debug\lab1dm.Main.resources
+D:\code\DM\lab1dm\lab1dm\obj\Debug\lab1dm.OrigF.resources
+D:\code\DM\lab1dm\lab1dm\obj\Debug\lab1dm.ShortF.resources
+D:\code\DM\lab1dm\lab1dm\obj\Debug\lab1dm.ForZ.resources
+D:\code\DM\lab1dm\lab1dm\obj\Debug\lab1dm.ShowRes.resources
